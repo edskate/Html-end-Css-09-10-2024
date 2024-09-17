@@ -1,5 +1,6 @@
 body{
     background-color: gray;
+    margin: 30px;
 }
 h3,h1{
     color: blue;
@@ -27,6 +28,8 @@ i{
 }
 li {
     list-style-type: circle;
+    color: yellow;
+    text-shadow: -1px 1px 1px #000;
   }
   
   li li {
