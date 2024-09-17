@@ -1,21 +1,25 @@
 body{
     background-color: gray;
     margin: 30px;
+    flex-direction: column;
 }
 h3,h1{
     color: blue;
       margin: 2%;
       text-shadow: 10px 10px 10px #000;
+      flex-direction: column;
 }
 h4{
     color: red;
     text-shadow: 10px 10px 10px #000;
       margin: 2%;
+      flex-direction: column;
 }
 h2{
     color: greenyellow;
     text-shadow: 1px 2px 3px #000;
       margin: 1%;
+      flex-direction: column;
 }
 i{
     color: greenyellow;
